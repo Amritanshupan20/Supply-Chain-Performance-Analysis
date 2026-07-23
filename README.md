@@ -87,6 +87,10 @@ The dashboard includes:
 
 ---
 
+## 📊 Dashboard Preview
+
+![Dashboard](dashboard.png)
+
 ## 📈 Key Insights
 
 - Fishing generated the highest sales among all product categories.
